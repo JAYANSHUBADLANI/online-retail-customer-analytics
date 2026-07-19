@@ -1,0 +1,19 @@
+# Raw / full transaction-level data (too large to commit)
+online_retail_II.csv
+data/cleaned_data.csv
+data/cleaned_data_with_customer.csv
+
+# Internal progress documents, not portfolio material
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
